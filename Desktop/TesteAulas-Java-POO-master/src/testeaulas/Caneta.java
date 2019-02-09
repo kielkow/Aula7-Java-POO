@@ -1,7 +1,7 @@
 package testeaulas;
 public class Caneta {
     
-    private String modelo;
+    public String modelo;
     public String cor;
     private double ponta;
     protected int carga;
@@ -54,8 +54,8 @@ public class Caneta {
     public void status(){
         System.out.println("Cor: " + this.cor);
         System.out.println("Tampa: " + this.tampa);
-        System.out.println("Modelo: " + this.getModelo());
-        System.out.println("Ponta: " + this.getPonta());
+        System.out.println("Modelo: " + this.modelo);
+        System.out.println("Ponta: " + this.ponta);
         System.out.println("Carga: " + this.carga);   
     }
     

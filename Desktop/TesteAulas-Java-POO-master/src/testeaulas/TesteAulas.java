@@ -9,8 +9,8 @@ public class TesteAulas {
         c1.setPonta(0.5);
         System.out.println(c1.getModelo());
         System.out.println(c1.getPonta());
-        
-        Caneta c2 = new Caneta("NIC", "Amarela", 0.6, 2, true);
+
+        Caneta c2 = new Caneta("NIC", "Laranja", 0.8, 2, false);
         c2.status();
            
     }
