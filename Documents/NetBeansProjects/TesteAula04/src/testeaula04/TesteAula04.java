@@ -1,5 +1,5 @@
-package testeaulas;
-public class TesteAulas {
+package testeaula04;
+public class TesteAula04 {
 
     public static void main(String[] args) {
         

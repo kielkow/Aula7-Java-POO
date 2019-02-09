@@ -1,4 +1,4 @@
-package testeaulas;
+package testeaula04;
 public class Caneta {
     
     public String modelo;
